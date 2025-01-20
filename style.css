@@ -4,3 +4,19 @@
     text-decoration: none;
     box-sizing: border-box;
 }
+
+table {
+    width: 100%; 
+    table-layout: fixed;
+  }
+  
+  thead th,
+  tbody td {
+    text-align: left; 
+  }
+  
+  .images img {
+    max-width: 100%; 
+    height: auto; 
+  }
+  
